@@ -1,4 +1,4 @@
-[Developed by Marco Lopez-Cruz and G. de los Campos]
+[Developed by H. Hong, Marco Lopez-Cruz and G. de los Campos]
 
 
 **Useful resources**

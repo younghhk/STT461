@@ -6,13 +6,15 @@
 
 1.a There is a really exciting data set included with the default `R` installation, but I can't remember what it's called. I think it has something to do with chicken. Find it by keyword search and load it into your workspace.
   
+1.b Add a new column to chickwts that gives the weight in kilograms, rather than grams. Make sure the
+column has a descriptive name, kg.  
 	
-1.b Create 2 weight categories, light and heavy.  If weight is less than 150g, assign *light*.  Otherwise,  *heavy*.  Make sure the
+1.c Create 2 weight categories, light and heavy.  If weight is less than 150g, assign *light*.  Otherwise,  *heavy*.  Make sure the
 column has a descriptive name, *weightcat*.
 
-1.3 Compute the minimum, maximum, mean and median of weight.
+1.d Compute the minimum, maximum, mean and median of weight.
 
-1.4 Make a box-and-whiskers plot showing the distribution of chicken weight according to feed type. Make sure to label the axes appropriately.
+1.e Make a box-and-whiskers plot showing the distribution of chicken weight according to feed type. Make sure to label the axes appropriately.
 
 
 **Problem 2**

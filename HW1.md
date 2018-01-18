@@ -6,7 +6,7 @@
 
 1.a There is a really exciting data set included with the default `R` installation, but I can't remember what it's called. I think it has something to do with chicken. Find it by keyword search and load it into your workspace.
   
-1.b Add a new column to chickwts that gives the weight in kilograms, rather than grams. Make sure the
+1.b Add a new column that gives the weight in kilograms, rather than grams. Make sure the
 column has a descriptive name, kg.  
 	
 1.c Create 2 weight categories, *light* and *heavy*.  If weight is less than 150g, assign *light*.  Otherwise,  *heavy*.  Make sure the

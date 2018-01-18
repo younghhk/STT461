@@ -1,4 +1,4 @@
-## (2) Matrix Algebra (definitions and computational methods)
+## Matrix Algebra (definitions and computational methods)
 
 **Definition**. A matrix is a 2-dimensional array of values of the same type.
 

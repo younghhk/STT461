@@ -3,7 +3,7 @@
 
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 
-**Instructor**: [Hyokyoung G. Hong](https://www.stt.msu.edu/users/hhong/). (hhong@msu.edu)
+**Instructor**: Hyokyoung G. Hong. (hhong@msu.edu)
 
 **Office hours**: Mon and Wed: 2:00 pm- 3:00 pm Wells Hall C435
 
@@ -18,7 +18,7 @@ In this course we will cover computational methods commonly used in statistics, 
 **Textbook**:  There is no required textbook. However, the following are good textbooks that will guide
 you learning about statistical analyses in R.
 
-[Statistical computing with R] (https://www.crcpress.com/Statistical-Computing-with-R/Rizzo/p/book/9781584885450). Maria L. Rizzo, Chapman & Hall
+[Statistical computing with R](https://www.crcpress.com/Statistical-Computing-with-R/Rizzo/p/book/9781584885450). Maria L. Rizzo, Chapman & Hall
 
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html). This book covers many of the topics we will discuss. 
 

@@ -23,7 +23,7 @@ you learning about statistical analyses in R.
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html). This book covers many of the topics we will discuss. 
 
 
-[**Syllabus**](https://github.com/younghhk/STT461/blob/master/STT461_Syllabus.pdf)
+[**Syllabus**](https://github.com/younghhk/STT461/blob/master/STT461_syllabus.pdf)
 
 
 <div id="Outline" />

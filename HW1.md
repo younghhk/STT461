@@ -4,9 +4,7 @@
 
 **Problem 1**
 
-1.a There is a really exciting data set included with the default `R` installation,
-but I can't remember what it's called. I think it has something to do with chicken. Find it by keyword 
-search and load it into your workspace.
+1.a There is a really exciting data set included with the default `R` installation, but I can't remember what it's called. I think it has something to do with chicken. Find it by keyword search and load it into your workspace.
   
 	
 1.b Create 2 weight categories, light and heavy.  If weight is less than 150g, assign `light`.  Otherwise,  `heavy`.  Make sure the
@@ -35,7 +33,7 @@ workspace, naming the resulting object `baby`. Briefly inspect the data.
 type. 
 
 3.c Change the name of the third column to `event`. Convert the `CA125.POS` and `GRADE`
-columns into numeric values, with the ambiguous entries coded as NAs. Fix the `Debulk1 column such
+columns into numeric values, with the ambiguous entries coded as `NAs`. Fix the `Debulk1` column such
 that only two levels are used (`O` and `S`). Rename the eighth column to `response` and convert it to
 a logical vector (`0 = FALSE`, `1 = TRUE`).
 

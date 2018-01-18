@@ -20,8 +20,7 @@ column has a descriptive name, *weightcat*.
 2.a Create a numeric vector $x$ of length 60 that ranges from $-\pi$ to $\pi$. Create a numeric vector $y$ that is the
 sine of $x$ (in radians). Create a vector $z$ that is the cosine of $x$.
 
-2.b Plot $y$ vs. $x$ as a series of points joined by lines. On the same graph, add red-colored points for $z$ vs.
-$x$. Add a legend.
+2.b Plot $y$ vs. $x$ as a series of points joined by lines. On the same graph, add red-colored points for $z$ vs. $x$. Add a legend.
 
 
 **Problem 3**

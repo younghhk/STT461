@@ -9,7 +9,7 @@
 1.b Add a new column to chickwts that gives the weight in kilograms, rather than grams. Make sure the
 column has a descriptive name, kg.  
 	
-1.c Create 2 weight categories, light and heavy.  If weight is less than 150g, assign *light*.  Otherwise,  *heavy*.  Make sure the
+1.c Create 2 weight categories, *light* and *heavy*.  If weight is less than 150g, assign *light*.  Otherwise,  *heavy*.  Make sure the
 column has a descriptive name, *weightcat*.
 
 1.d Compute the minimum, maximum, mean and median of weight.
@@ -34,16 +34,14 @@ column has a descriptive name, *weightcat*.
 
 **Problem 3**
 
-3.a Download the *Baby Weight Data* spreadsheet to your local machine. Now, import the spreadsheet as a data frame into your `R`
-workspace, naming the resulting object *baby*. Briefly inspect the data.
+3.a Download the *crab* spreadsheet to your local machine. Now, import the spreadsheet as a data frame into your `R`
+workspace, naming the resulting object *crab_dat*. Briefly inspect the data.
  
 3.b Confirm that the last three columns are useless, and remove them. Convert the first column to character
 type. 
 
-3.c Change the name of the third column to event. Convert the *CA125.POS* and *GRADE*
-columns into numeric values, with the ambiguous entries coded as `NAs`. Fix the *Debulk1* column such
-that only two levels are used (*O* and *S*). Rename the eighth column to `response` and convert it to
-a logical vector (`0 = FALSE`, `1 = TRUE`).
+3.c Change the name of the fifth column to *weight1*. Create *weight2* column which has two weight categories.
+ if weight is less than the median of *weight1*, assign *light*,  otherwise *heavy*.
 
 3.d Now that you have cleaned up the *clin* object, save it for later use, both as an R object (`clin.rda`)
 and also as a CSV file (`clin.csv`).

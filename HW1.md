@@ -40,4 +40,3 @@ a logical vector (`0 = FALSE`, `1 = TRUE`).
 and also as a CSV file (`clin.csv`).
 
 [Home](https://github.com/younghhk/STT461)
-

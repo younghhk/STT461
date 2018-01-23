@@ -37,7 +37,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
 ## Slides
 
-  * [Generating random number] (https://github.com/younghhk/STT461/blob/master/rannum1.pdf)
+  * **[Generating random number](https://github.com/younghhk/STT461/blob/master/rannum1.pdf)
 ## Homework
 
   * [HW1](https://github.com/younghhk/STT461/blob/master/HW1.md)

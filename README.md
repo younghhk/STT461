@@ -35,7 +35,9 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   * **[Quick Introduction to R](https://github.com/younghhk/STT461/blob/master/RIntro.md)**
   * **[Matrix Algebra in R](https://github.com/younghhk/STT461/blob/master/matrixAlgebraR.md)**
 
-   
+## Slides
+
+  * [Generating random number] (https://github.com/younghhk/STT461/blob/master/rannum1.pdf)
 ## Homework
 
   * [HW1](https://github.com/younghhk/STT461/blob/master/HW1.md)

@@ -36,7 +36,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
 ## Slides
 
-  * **Generating Random Number** [pdf](https://github.com/younghhk/STT461/blob/master/rannum1.pdf)
+  * **Generating Random Number** [pdf](https://app.box.com/s/3i2byay2m9doi7ordo8rnsgblp95kc5c)
   
 ## Homework
 

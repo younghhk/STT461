@@ -1,4 +1,4 @@
-# STT 461: Computations in Probability and Statistics
+ # STT 461: Computations in Probability and Statistics
 
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 
@@ -36,12 +36,9 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
 ## Slides
 
-  * **[Generating Random Number](https://github.com/younghhk/STT461/blob/master/rannum1.pdf)**
+  * **Generating Random Number** [pdf](https://github.com/younghhk/STT461/blob/master/rannum1.pdf)
+  
 ## Homework
 
   * [HW1](https://github.com/younghhk/STT461/blob/master/HW1.md)
  
-
-<div id="intro" />
-
-

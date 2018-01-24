@@ -1,4 +1,7 @@
- # STT 461: Computations in Probability and Statistics
+
+# STT 461: Computations in Probability and Statistics
+
+** MWF, 11:30 pm- 12:20 pm, 314 Ernst Bessey Hall **
 
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 

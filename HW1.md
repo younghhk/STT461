@@ -1,6 +1,6 @@
 ###  HW1: Data manipulation
 
-**Due: Friday, 26, 2018**.
+**Due: Friday, 26, 2018, in class**.
 
 **Note:** Students are required to submit their homework as both PDF file and hardcopy by the due date of the assignment. Please turn in code separately and electronically. All electronic submissions should be made via D2L Dropbox and should follow the following naming convention: last name, assignment number, proper extension. So, for example, if John Smith is turning in Homework 1, he would name the file Smith1.pdf. 
 

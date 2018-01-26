@@ -43,9 +43,9 @@ If $U=0.63$, what do we take as $X?$
 
 4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which abs(correlation)$\geq$ 0.9.
 
-4.b Using `cara` data, print the resuluts of `f4`. 
+4.b Using `cars` data, print the resuluts of `f4`. 
 
-## Problem 5:
+**Problem 5**
 
 5.a Derive the mean and variance of the Binomial distribution $(n,p)$.
 

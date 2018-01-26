@@ -1,4 +1,4 @@
-###  HW2: Data manipulation
+###  HW2: Inverse CDF Method, write `R` functions
 
 **Due: Wednesday, 2/7/2018, in class**.
 

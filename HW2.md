@@ -18,7 +18,7 @@ $$f(x)=ab^{-a}x^{a-1} \exp^{-(x/b)^a},~x>0.$$
 
 1.c Suppose that $U=0.7$ is generated. Given $a=1$ amd $b=1$, What is $X$?
 
-Note: Since $1 – U ~ U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the final algorithm.
+Note: Since $1 – U \sim  U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the final algorithm.
 
 1.d Draw the histogram from 1000 sampled  Weibull $(a=1,b=1)$ random variables based on 1.b.
 
@@ -26,9 +26,12 @@ Note: Since $1 – U ~ U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the
 
 Suppose
 
-$$x = \begin{cases} -1 &\mbox{with } p=0.6 \\
-2.5 & \mbox{with } p=0.3 \\
-4 & \mbox{with } p=0.1. \end{cases}$$
+$x$| $p(x)$
+-----| ----
+-1|0.6
+2.5| 0.3
+4 |0.1 
+
 
 If $U=0.63$, what do we take as $X?$
 
@@ -55,5 +58,8 @@ If $U=0.63$, what do we take as $X?$
 5.c  Compute the  number of student’s correct answers. 
  Assuming $n=40$ and $p=0.5$, compare with the theoretical values.
 
+**Problem 6 (Optional)**
+
+TBA
 
 [Home](https://github.com/younghhk/STT461)

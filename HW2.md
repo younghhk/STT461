@@ -45,7 +45,7 @@ If $U=0.63$, what do we take as $X?$
 
  **Problem 4**
 
-4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which $\abs(\mbox{correlation})\geq 0.9$.
+4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which $|\mbox{correlation}|\geq 0.9$.
 
 4.b Using `cars` data, print the resuluts of `f4`. 
 

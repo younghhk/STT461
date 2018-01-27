@@ -3,7 +3,7 @@
 **Due: Wednesday, 2/7/2018, in class**.
 
 **Note:**  Students are required to submit their homework as both PDF file and hardcopy by the due date of the assignment.
-Please turn in code separately and electronically. All electronic submissions should be made via D2L Dropbox and should follow the following naming convention: last name, assignment number, proper extension. So, for example, if John Smith is turning in Homework 2, he would name the file Smith2.pdf. The associated code would be Smith2.Rmd. If you wish to break up your code into separate files, you may submit them as Smith1a.Rmd, Smith2b.Rmd, and so on. 
+Please turn in code separately and electronically. All electronic submissions should be made via D2L Dropbox and should follow the following naming convention: last name, first name, assignment number, proper extension. So, for example, if John Smith is turning in Homework 2, he would name the file Smith_John2.pdf. The associated code would be Smith_John2.Rmd. If you wish to break up your code into separate files, you may submit them as Smith_John2a.Rmd, Smith_John2b.Rmd, and so on. 
 No credit will be given for late work under any circumstances. Homework in the wrong format will not be given credit.
 
 **Problem 1:  Inverse CDF method for random number generation**
@@ -23,6 +23,7 @@ Note: Since $1 – U ~ U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the
 1.d Draw the histogram from 1000 sampled  Weibull $(a=1,b=1)$ random variables based on 1.b.
 
 **Problem 2: Inverse CDF method for random number generation**
+
 Suppose
 
 \[x = \begin{cases} -1 &\mbox{with } p=0.6 \\
@@ -41,7 +42,7 @@ If $U=0.63$, what do we take as $X?$
 
  **Problem 4**
 
-4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which abs(correlation)$\geq$ 0.9.
+4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which $abs(\mbox{correlation})\geq 0.9$.
 
 4.b Using `cars` data, print the resuluts of `f4`. 
 

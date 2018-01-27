@@ -10,7 +10,7 @@ No credit will be given for late work under any circumstances. Homework in the w
 
 Weibull $(a, b)$ distribution, parameters $a > 0$ and $b > 0$ has the following probability density function: 
 
-\[f(x)=ab^{-a}x^{a-1} \exp^{-(x/b)^a},~x>0.\]
+$$f(x)=ab^{-a}x^{a-1} \exp^{-(x/b)^a},~x>0.$$
 
 1.a Obtain the cumulative density function (CDF).
 
@@ -26,9 +26,9 @@ Note: Since $1 – U ~ U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the
 
 Suppose
 
-\[x = \begin{cases} -1 &\mbox{with } p=0.6 \\
+$$x = \begin{cases} -1 &\mbox{with } p=0.6 \\
 2.5 & \mbox{with } p=0.3 \\
-4 & \mbox{with } p=0.1. \end{cases}\]
+4 & \mbox{with } p=0.1. \end{cases}$$
 
 If $U=0.63$, what do we take as $X?$
 
@@ -36,13 +36,13 @@ If $U=0.63$, what do we take as $X?$
 
  Determine the number of days between the following datas: January 1 in the year 2018, and January 1 in the year 2028.
 
-3.a Write your own R function called, `countdays`.
+3.a Write your own `R` function called, `countdays`.
 
 3.b Use the built-in `R` function `as.Date` to compute. 
 
  **Problem 4**
 
-4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which $abs(\mbox{correlation})\geq 0.9$.
+4.a Write an `R` function, `f4`,  that prints, with their row and column labels, only those elements of a correlation matrix for which $\abs(\mbox{correlation})\geq 0.9$.
 
 4.b Using `cars` data, print the resuluts of `f4`. 
 

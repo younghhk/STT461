@@ -16,7 +16,7 @@ $$f(x)=ab^{-a}x^{a-1} \exp^{-(x/b)^a},~x>0.$$
 
 1.b  Solve $U = F(X)$ for $X$.
 
-1.c Suppose that $U=0.7$ is generated. Given $a=1$ amd $b=1$, What is $X$?
+1.c Suppose that $U=0.7$ is generated. Given $a=1$ and $b=1$, What is $X$?
 
 Note: Since $1 – U \sim  U(0, 1)$ as well, can replace $1 – U$ by $U$ to get the final algorithm.
 

@@ -4,7 +4,7 @@
 
 **Note:**  Students are required to submit their homework as both PDF file and hardcopy by the due date of the assignment.
 Please turn in code separately and electronically. All electronic submissions should be made via D2L Dropbox and should follow the following naming convention: last name, first name, assignment number, proper extension. So, for example, if John Smith is turning in Homework 2, he would name the file Smith_John2.pdf. The associated code would be Smith_John2.Rmd. If you wish to break up your code into separate files, you may submit them as Smith_John2a.Rmd, Smith_John2b.Rmd, and so on. 
-No credit will be given for late work under any circumstances. Homework in the wrong format will not be given credit.
+There will be a 20%  penalty per day that your homework is late.  Homework in the wrong format will not be given credit.
 
 **Problem 1:  Inverse CDF method for random number generation**
 

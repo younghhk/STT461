@@ -59,7 +59,12 @@ If $U=0.63$, what do we take as $X?$
  Assuming $n=40$ and $p=0.5$, compare with the theoretical values.
 
 **Problem 6 (Optional)**
+The geometric distribution with pmf
+$$P(X=k)=(1-p)^{k-1}p,~k=1,2,....$$
 
-TBA
+5.a Use the inverse CDF method to generate random variable $X$.
+When $p=0.2$ and $U=0.62$, what is $X$?
+
+5.b Draw the histogram from 1000 sampled geometric ($p=0.2$) random variables based on 5.a.
 
 [Home](https://github.com/younghhk/STT461)

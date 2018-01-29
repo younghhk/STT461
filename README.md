@@ -45,5 +45,5 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
   * [HW1](https://github.com/younghhk/STT461/blob/master/HW1.md)
   
-  * [HW2](https://github.com/younghhk/STT461/blob/master/hW2-NEW.html)
+  * [HW2](https://github.com/younghhk/STT461/blob/master/hW2-NEW.pdf)
  

@@ -39,7 +39,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
 ## Slides
 
-  * **Inverse CDF method** [pdf](https://app.box.com/s/3i2byay2m9doi7ordo8rnsgblp95kc5c)
+  * **Inverse CDF method** [pdf](https://app.box.com/s/kd496k3ue2jw63hp4rcoo29ivk32kos6)
   * **Acceptance-rejection method** [pdf](https://app.box.com/s/e0ns2tv0woqlc0vw34aznzfpo1jjlked)
 ## Homework
 

@@ -41,8 +41,8 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
 
   * **Inverse CDF method** [pdf](https://app.box.com/s/kd496k3ue2jw63hp4rcoo29ivk32kos6)
   * **Acceptance-rejection method** [pdf](https://app.box.com/s/e0ns2tv0woqlc0vw34aznzfpo1jjlked)
-  * **Monte Carlo integration method** [pdf](https://app.box.com/s/e0ns2tv0woqlc0vw34aznzfpo1jjlked)
-  * **Importance sampling ** [pdf]
+  * **Monte Carlo integration method** [pdf](https://app.box.com/s/hrsqiqgupn2vcxm6ka9okncp5kgvufaq)
+  * **Importance sampling** [pdf]
 ## Homework
 
   * [HW1](https://github.com/younghhk/STT461/blob/master/HW1.md)

@@ -49,6 +49,5 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
   * [HW2](https://github.com/younghhk/STT461/blob/master/HW2.pdf)
  
- *  [HW3] [pdf] (https://app.box.com/s/v0duna62gn9za4vz8560i8q842xi0087)
-  [RMD] (https://app.box.com/s/l50vk3r3rk3ei4vdtdulduvkavzmbzt0)
+ *  [HW3] [pdf](https://app.box.com/s/v0duna62gn9za4vz8560i8q842xi0087) [RMD](https://app.box.com/s/l50vk3r3rk3ei4vdtdulduvkavzmbzt0)
 

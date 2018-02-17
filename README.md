@@ -50,4 +50,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   * [HW2](https://app.box.com/s/i05bgl7zso4ljayzdliso04nh18yxpuh)
  
  *  [HW3 (pdf)](https://app.box.com/s/htydhezd9oo80xc1q2zd086ryiz8v3w7)  [HW3 (rmd)](https://app.box.com/s/l50vk3r3rk3ei4vdtdulduvkavzmbzt0)
+ 
+ ## Exam
+ * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)
 

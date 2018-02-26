@@ -37,12 +37,17 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   * **[Quick Introduction to R](https://github.com/younghhk/STT461/blob/master/RIntro.md)**
   * **[Matrix Algebra in R](https://github.com/younghhk/STT461/blob/master/matrixAlgebraR.md)**
 
-## Slides
-
   * **Inverse CDF method** [pdf](https://app.box.com/s/0zqvlwnz1i4kpx4j5wkpb9hjaiq0btn4)
   * **Acceptance-rejection method** [pdf](https://app.box.com/s/bx59lqxg11nztf274gr2my9xndgb3xu1)
   * **Monte Carlo integration method** [pdf](https://app.box.com/s/e0tcs2fk6qhror38n25s2d9432g4pgl3)
   * **Importance sampling** [pdf](https://app.box.com/s/bqg3i18mesvgudor2qwxhbye9pn7m4k5)
+  
+   * **Ordinary Least Squares: Estimation & Inference**
+    * Derivation of closed-form solution
+    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
+    * Computing estimates, SEs and p-values using matrix operations [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
+    
+    
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

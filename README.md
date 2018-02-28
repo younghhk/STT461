@@ -44,8 +44,8 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
    * **Ordinary Least Squares: Estimation & Inference**
     * Derivation of closed-form solution
-    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
-    * Computing estimates, SEs and p-values using matrix operations [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
+    * Computation using `lm`, `lsfit` [OLS]
+    * Computing estimates, SEs and p-values using matrix operations 
     
     
 ## Homework

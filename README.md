@@ -46,6 +46,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
     * Derivation of closed-form solution
     * Computation using `lm`, `lsfit` [OLS]
     * Computing estimates, SEs and p-values using matrix operations 
+    * Transformation
     
     
 ## Homework

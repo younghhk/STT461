@@ -52,7 +52,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
     * Odds and odds ratio
     * Logistic regression
     * Likelihood 
-    * Computation using `glm` [Logit] (https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
+    * Computation using `glm` [Logit](https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
     * Computing estimates, SEs and p-values
 ## Homework
 

@@ -3,6 +3,8 @@
 
 **MWF, 11:30 am- 12:20 pm, 314 Ernst Bessey Hall**
 
+**Note:  New date for Exam 2: April 11 (wed), 2018**
+
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 
 **Instructor**: Hyokyoung G. Hong. (hhong@msu.edu)
@@ -23,10 +25,6 @@ you learning about statistical analyses in R.
 [Statistical computing with R](https://www.crcpress.com/Statistical-Computing-with-R/Rizzo/p/book/9781584885450). Maria L. Rizzo, Chapman & Hall
 
 [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/index.html). This book covers many of the topics we will discuss. 
-
-
-[**Syllabus**](https://github.com/younghhk/STT461/blob/master/sp2018stt461syllabus.pdf)
-
 
 <div id="Outline" />
 

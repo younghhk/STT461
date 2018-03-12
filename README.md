@@ -48,7 +48,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
     * Computing estimates, SEs and p-values using matrix operations 
     * Transformation
    
-   * **Logistic regression: Estimation & Inference** [pdf](https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
+   * **Logistic regression: Estimation & Inference** [pdf](https://app.box.com/s/2u4ali2xe8a1gyqampol7dqx31nq284w)
     * Odds and odds ratio
     * Likelihood
     * Computation using `glm` 

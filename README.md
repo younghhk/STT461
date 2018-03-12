@@ -42,16 +42,16 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   * **Monte Carlo integration method** [pdf](https://app.box.com/s/e0tcs2fk6qhror38n25s2d9432g4pgl3)
   * **Importance sampling** [pdf](https://app.box.com/s/bqg3i18mesvgudor2qwxhbye9pn7m4k5)
   
-   * **Ordinary Least Squares: Estimation & Inference**
+   * **Ordinary Least Squares: Estimation & Inference** [pdf](https://app.box.com/s/cdrefx3bafz5jxqtbh3chtv74uhg8cvx)
     * Derivation of closed-form solution
-    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/cdrefx3bafz5jxqtbh3chtv74uhg8cvx)
+    * Computation using `lm`, `lsfit`
     * Computing estimates, SEs and p-values using matrix operations 
     * Transformation
    
-   * **Logistic regression: Estimation & Inference**
+   * **Logistic regression: Estimation & Inference** [pdf](https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
     * Odds and odds ratio
     * Likelihood
-    * Computation using `glm` [Logit](https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
+    * Computation using `glm` 
 
 ## Homework
 

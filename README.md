@@ -9,7 +9,7 @@ In this course we will cover computational methods commonly used in statistics, 
 
 **Office hours**: Mon and Wed: 2:00 pm- 3:00 pm Wells Hall C435
 
-**TA Office hours**: Jialin Qu (qujialin@stt.msu.edu) Fri: 9:00 am-11:00 am Wells Hall C522
+**TA**: Jialin Qu (qujialin@stt.msu.edu) 
 
 **Software**: The course will be mostly based on [R](https://www.r-project.org/). 
 
@@ -50,10 +50,9 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
    
    * **Logistic regression: Estimation & Inference**
     * Odds and odds ratio
-    * Logistic regression
-    * Likelihood 
+    * Likelihood
     * Computation using `glm` [Logit](https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
-    * Computing estimates, SEs and p-values
+
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

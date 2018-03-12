@@ -44,11 +44,11 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
    * **Ordinary Least Squares: Estimation & Inference**
     * Derivation of closed-form solution
-    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
+    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/cdrefx3bafz5jxqtbh3chtv74uhg8cvx)
     * Computing estimates, SEs and p-values using matrix operations 
     * Transformation
    
-   * **Logistic regression**
+   * **Logistic regression: Estimation & Inference**
     * Odds and odds ratio
     * Logistic regression
     * Likelihood 

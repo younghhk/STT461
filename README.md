@@ -44,11 +44,16 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
    * **Ordinary Least Squares: Estimation & Inference**
     * Derivation of closed-form solution
-    * Computation using `lm`, `lsfit` [OLS]
+    * Computation using `lm`, `lsfit` [OLS](https://app.box.com/s/y8efvisnqql7x4wyyayrczszhgzbin30)
     * Computing estimates, SEs and p-values using matrix operations 
     * Transformation
-    
-    
+   
+   * **Logistic regression**
+    * Odds and odds ratio
+    * Logistic regression
+    * Likelihood 
+    * Computation using `glm` [Logit] (https://app.box.com/s/onh2iewsvnwk1vdh1xv3qt2agtn48xva)
+    * Computing estimates, SEs and p-values
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

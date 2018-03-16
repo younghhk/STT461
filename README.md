@@ -50,6 +50,9 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
     * Odds and odds ratio
     * Likelihood
     * Computation using `glm` 
+    
+   * **Bootstrap**
+    * Example  [pdf](https://app.box.com/s/myup7ehv1u3qy91lnew5tnn4058x12an) 
 
 ## Homework
 

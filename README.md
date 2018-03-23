@@ -54,8 +54,10 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
     * Computation using `glm` 
     
    * **Bootstrap** [pdf](https://app.box.com/s/npmmydwcmzzmzvtyy6x24t8r1igfc3ax)
-    * Example  [pdf](https://app.box.com/s/myup7ehv1u3qy91lnew5tnn4058x12an) patch [csv](https://app.box.com/s/lexlhc4cqk8x9bi1i63pnxj693jbbc3d)
-
+    * Example 1  [pdf](https://app.box.com/s/myup7ehv1u3qy91lnew5tnn4058x12an) patch [csv](https://app.box.com/s/lexlhc4cqk8x9bi1i63pnxj693jbbc3d)
+  
+   * Example 2  [pdf](https://app.box.com/s/qpqv358fvuixttglu8ra35yrus5cx4vv) 
+   
    * **Permutation** [pdf](https://app.box.com/s/63l0tvy8gawxozrb5ch2w9kf85eiel8p)
 ## Homework
 

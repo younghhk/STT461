@@ -3,7 +3,9 @@
 
 **MWF, 11:30 am- 12:20 pm, 314 Ernst Bessey Hall**
 
-**Note:  New date for Exam 2: April 11 (wed), 2018**
+**Note:  New date for Exam 2 Part 1 (in-class, closed book): April 11 (wed) 11:30a-12:20p, 2018**
+
+**Exam 2 Part 2 (take-home, open book): April 13 (Fri) 12:20p, 2018**
 
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 

@@ -54,6 +54,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
    * **Bootstrap** [pdf](https://app.box.com/s/npmmydwcmzzmzvtyy6x24t8r1igfc3ax)
     * Example  [pdf](https://app.box.com/s/myup7ehv1u3qy91lnew5tnn4058x12an) patch [csv](https://app.box.com/s/lexlhc4cqk8x9bi1i63pnxj693jbbc3d)
 
+   * **Permutation** [pdf](https://app.box.com/s/63l0tvy8gawxozrb5ch2w9kf85eiel8p)
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

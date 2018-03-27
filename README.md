@@ -58,7 +58,8 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
    * Example 2  [pdf](https://app.box.com/s/qpqv358fvuixttglu8ra35yrus5cx4vv) 
    
-   * **Permutation** [pdf](https://app.box.com/s/63l0tvy8gawxozrb5ch2w9kf85eiel8p)
+   * **Permutation** [pdf](https://app.box.com/s/y6kx3unwx978zon1taq419z0dwblvtlp)
+   * Example [pdf](https://app.box.com/s/x3zcnsrzunopnpxm4he3pvcglovsl97m)
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

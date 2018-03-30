@@ -66,10 +66,13 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
   
   * [HW2](https://app.box.com/s/i05bgl7zso4ljayzdliso04nh18yxpuh)
  
- *  [HW3 (pdf)](https://app.box.com/s/htydhezd9oo80xc1q2zd086ryiz8v3w7)  [HW3 (rmd)](https://app.box.com/s/l50vk3r3rk3ei4vdtdulduvkavzmbzt0)
+ *  [HW3 (pdf)](https://app.box.com/s/htydhezd9oo80xc1q2zd086ryiz8v3w7)  [(rmd)](https://app.box.com/s/l50vk3r3rk3ei4vdtdulduvkavzmbzt0)
  
  * [HW4 (pdf)](https://app.box.com/s/vzhv100opsw1nw63r68csd1u8mmni0fg)
- [HW4 (rmd)](https://app.box.com/s/a1uda3jglj9nez1m1vsoojbx9zzlft4f)
+ [(rmd)](https://app.box.com/s/a1uda3jglj9nez1m1vsoojbx9zzlft4f)
+ 
+  * [HW5 (pdf)](https://app.box.com/s/vse2f430vb2pb9bxecfm6mxnihdmpk6m)
+ [(rmd)](https://app.box.com/s/l65wiqksw9e2bldnpm6oo6hkyfdec2gk)
  
  ## Exam
  * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)

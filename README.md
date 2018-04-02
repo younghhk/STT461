@@ -72,7 +72,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
  [(rmd)](https://app.box.com/s/a1uda3jglj9nez1m1vsoojbx9zzlft4f)
  
   * [HW5 (pdf)](https://app.box.com/s/vse2f430vb2pb9bxecfm6mxnihdmpk6m)
- [(rmd)](https://app.box.com/s/l65wiqksw9e2bldnpm6oo6hkyfdec2gk)
+ [(rmd)](https://app.box.com/s/l65wiqksw9e2bldnpm6oo6hkyfdec2gk) Note on the correction of 1) in Problem 1. Richness>3 -> Richness>40
  
  ## Exam
  * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)

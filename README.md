@@ -60,6 +60,8 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
    
    * **Permutation** [pdf](https://app.box.com/s/y6kx3unwx978zon1taq419z0dwblvtlp)
    * Inclass assignment [pdf](https://app.box.com/s/w4lfxed8e1lxt31xavk7crrf89wxbmzp)
+   
+   * ** 4/14/2018 note has been posted on D2L.
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)
@@ -73,9 +75,10 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
  
   * [HW5 (pdf)](https://app.box.com/s/vse2f430vb2pb9bxecfm6mxnihdmpk6m)
  [(rmd)](https://app.box.com/s/l65wiqksw9e2bldnpm6oo6hkyfdec2gk)
- Note: 1) the correction of 1) in Problem 1. Richness>3 -> Richness>40
-       
-       2) The value of p.hat=mean(c(t0,reps)>=t0) is the porportion of replicates T.star that are at least as large as the observed test statistic (an approximate p-value). For a two-tail test the empirical p-value is 2*phat if phat<=0.5 (it is 2(1-phat) if phat>0.5).
-       
+ Note: (1) the correction of 1) in Problem 1. Richness>3 -> Richness>40    
+       (2) The value of p.hat=mean(c(t0,reps)>=t0) is the porportion of replicates T.star that are at least as large as the observed test statistic (an approximate p-value). For a two-tail test the empirical p-value is 2*phat if phat<=0.5 (it is 2(1-phat) if phat>0.5).
+     
+     
+     
  ## Exam
  * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)

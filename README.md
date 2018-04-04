@@ -61,7 +61,7 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
    * **Permutation** [pdf](https://app.box.com/s/y6kx3unwx978zon1taq419z0dwblvtlp)
    * Inclass assignment [pdf](https://app.box.com/s/w4lfxed8e1lxt31xavk7crrf89wxbmzp)
    
-   * ** 4/14/2018 note has been posted on D2L.
+   * **4/14/2018 note has been posted on D2L.
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)

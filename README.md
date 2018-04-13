@@ -5,7 +5,10 @@
 
 **Note:  New date for Exam 2 (Part 1) (in-class, closed book): April 11 (Wed) 11:30a-12:20p, 2018**
 
-**Exam 2 (Part 2) (take-home, open book): April 13 (Fri) 12:20p, 2018**
+**Exam 2 (Part 2) (take-home, open book): New due date: April 16 (Monday) 12:20p, 2018**
+Announcement: I checked the D2L and found the exam was indeed available from 11:30am-12:20pm. I have disabled the time limit on D2L to avoid the confusion. So, please check the D2L again to make sure you have access to the file.
+With this, I have postponed the due date and time of the exam to  MONDAY 12:20pm EST April 16, 2018. There will be no class on that date and you can use it to make sure you finish the exam on time.
+
 
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 

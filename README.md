@@ -3,10 +3,6 @@
 
 **MWF, 11:30 am- 12:20 pm, 314 Ernst Bessey Hall**
 
-**Note:  New date for Exam 2 (Part 1) (in-class, closed book): April 11 (Wed) 11:30a-12:20p, 2018**
-
-**Exam 2 (Part 2) (take-home, open book): April 13 (Fri) 12:20p, 2018**
-
 In this course we will cover computational methods commonly used in statistics, including algorithms used for fitting and non-linear regressions, maximum likelihood estimation, simulation of random variables, bootstrap, cross-validation and algorithms for implementing high dimensional regressions.
 
 **Instructor**: Hyokyoung G. Hong. (hhong@msu.edu)
@@ -61,7 +57,6 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
    * **Permutation** [pdf](https://app.box.com/s/y6kx3unwx978zon1taq419z0dwblvtlp)
    * Inclass assignment [pdf](https://app.box.com/s/w4lfxed8e1lxt31xavk7crrf89wxbmzp)
    
-   * **Project** [pdf](https://app.box.com/s/5mshpjagru7pqmjncqvwjwlokcs03n6h)
 ## Homework
 
   * [HW1](https://app.box.com/s/kjthu2xu06kn26cqo4ual4y9goqs3l58)
@@ -78,7 +73,8 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
  Note: (1) the correction of 1) in Problem 1. Richness>3 -> Richness>40    
        (2) The value of phat=mean(c(t0,reps)>=t0) is the porportion of replicates Tstar that are at least as large as the observed test statistic (an approximate p-value). For a two-tail test the empirical p-value is **2*phat** if phat<=0.5 (it is 2(1-phat) if phat>0.5).
      
-     
-     
  ## Exam
  * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)
+
+## Project
+* [Description](https://app.box.com/s/5mshpjagru7pqmjncqvwjwlokcs03n6h)

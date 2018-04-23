@@ -76,5 +76,5 @@ Note: this is a tentative list of topics, if time permits we will try to cover a
  ## Exam
  * [Sample Exam 1](https://app.box.com/s/49rbgqfikxw2fi597muf0vi6o8qlnvfo)
 
-## Project
-* [Description](https://app.box.com/s/5mshpjagru7pqmjncqvwjwlokcs03n6h)
+## Project 
+* [Description (final version)](https://app.box.com/s/5mshpjagru7pqmjncqvwjwlokcs03n6h)
